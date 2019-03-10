@@ -1,0 +1,30 @@
+# site title
+title: Mahua
+
+# user name or organization name
+user: MahuaWR
+
+# issue repository
+repository: Blog
+
+# multi-author
+authors:
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: f#6584202015f113083393e023968223d43d0baab
+
+# posts per page
+perpage: 10
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'CREATED_AT'
